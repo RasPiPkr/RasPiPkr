@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 I'm a self taught Python developer and I also create projects like these:
+![OakPi Laptop](https://github.com/RasPiPkr/martinparkers/blob/master/img/OakPi800.png)
+![1970's Camera Upgrade to Digital with Bluetooth and Wifi with capabilty to email picture directly from shot](https://github.com/RasPiPkr/martinparkers/blob/master/img/piCamera800.png)
 <!--
 **RasPiPkr/RasPiPkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
