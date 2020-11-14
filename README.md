@@ -11,7 +11,7 @@ I kept the viewfinder intact and useable but can you believe there's a Raspberry
 Neither can I but I did and this sure is a compact camera
 [more information](https://raspipkr.github.io/martinparkers/10.html)
 
-If I have helped you out in some way and want to give some appreciation back feel free to check out my GitHub Sponsor page
+If I have helped you out in some way and want to give some appreciation back feel free to check out my [GitHub Sponsor page](https://github.com/sponsors/RasPiPkr)
 <!--
 **RasPiPkr/RasPiPkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
