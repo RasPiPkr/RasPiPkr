@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/RasPiPkr/RasPiPkr/RasPiPkr.svg)](http://hits.dwyl.com/RasPiPkr/RasPiPkr/RasPiPkr)
 ### Hi there 👋 I'm a self taught Python developer and I also create projects like these:
 ![OakPi Laptop](OakPi400.png)![1970's Camera Upgrade to Digital with Bluetooth and Wifi with capabilty to email picture directly from shot](piCamera400.png)
 # OakPi
