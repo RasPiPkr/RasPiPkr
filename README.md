@@ -12,7 +12,7 @@ Neither can I but I did and this sure is a compact camera
 [more information](https://raspipkr.github.io/martinparkers/10.html)
 
 If I have helped you out in some way and want to give some appreciation back feel free to check out my [GitHub Sponsor page](https://github.com/sponsors/RasPiPkr)
-<!--
+<!--[![Current Project](https://img.youtube.com/vi/0L9q_cWUW1I/0.jpg)](http://www.youtube.com/watch?v=0L9q_cWUW1I)
 **RasPiPkr/RasPiPkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
