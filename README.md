@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm a self taught Python developer and I also create projects like these:
-![OakPi Laptop](OakPi400.png)[![Current Project](https://img.youtube.com/vi/0L9q_cWUW1I/0.jpg)](http://www.youtube.com/watch?v=0L9q_cWUW1I)
-<!--![1970's Camera Upgrade to Digital with Bluetooth and Wifi with capabilty to email picture directly from shot](piCamera400.png)-->
+![OakPi Laptop](OakPi400.png)![1970's Camera Upgrade to Digital with Bluetooth and Wifi with capabilty to email picture directly from shot](piCamera400.png)
 # OakPi
 ### Raspberry Pi 4 4Gb Laptop
 Handmade out of 2 pieces of Oak timber and why not? Although it's not a monster powerful machine to use but it is perfectly fine for coding, excellent for use of the GPIO's and good enough to screen capture whilst coding with webcam use and stream live to my YouTube channel
