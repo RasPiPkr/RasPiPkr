@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a self taught Python developer and I also create projects like these:
+### Hi there,  I'm a self taught Python developer and I also create projects like these:
 ![OakPi Laptop](OakPi400.png)![Home Heating and Security Control](security.png)
 # OakPi - Raspberry Pi 4 8Gb Laptop
 Handmade out of 2 pieces of Oak timber and why not? Although it's not a monster powerful machine to use but it is perfectly fine for coding, excellent for use of the GPIO's and good enough to screen capture whilst coding with webcam use and stream live to my YouTube channel and more information can be found via
